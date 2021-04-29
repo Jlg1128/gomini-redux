@@ -1,6 +1,6 @@
 import React from 'react';
 import StoreContext from './context';
-import GoMiniRedux from './types/index';
+// import GoMiniRedux from './types/index';
 
 function connect(mapState: GoMiniRedux.MapState) {
   type Props = {
